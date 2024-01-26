@@ -9,7 +9,7 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Story)](https://github.com/loosie/github-readme-tistory-card)
 <p/>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=be-senior-developer&postId=2)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=be-senior-developer&postId=2)]([https://be-senior-developer.tistory.com/](https://be-senior-developer.tistory.com/))
 
 
 
