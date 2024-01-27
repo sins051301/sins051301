@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sins051301&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Story)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Story)](https://be-senior-developer.tistory.com/)
 <p/>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=be-senior-developer&postId=2)](https://be-senior-developer.tistory.com/)
