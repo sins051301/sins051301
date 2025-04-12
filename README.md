@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Hyeoksu's%20GitHub%20👋&height=250&section=header&fontSize=35&fontAlign=50&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sins051301&count_bg=%23FC7DE4&title_bg=%23555555&icon=&icon_color=%23EAEAEA&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsins051301&count_bg=%23FC7DE4&title_bg=%23555555&icon=&icon_color=%23EAEAEA&title=GITHUB&edge_flat=false)](https://github.com/sins051301)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sins051301&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,9 +15,6 @@
 <div align="center">
   <a href="https://be-senior-developer.tistory.com/">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Story" />
-  </a>
-  <a href="https://be-senior-developer.tistory.com/2">
-    <img src="https://github-readme-tistory-card.vercel.app/api?name=be-senior-developer&postId=2" />
   </a>
 </div>
 
