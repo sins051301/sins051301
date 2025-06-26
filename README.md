@@ -4,8 +4,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sins051301&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sins051301)](https://solved.ac/sins051301/)
+
+</div>
+
 ---
 
 ## 💻 Hyeoksu's Story
