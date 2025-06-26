@@ -14,7 +14,7 @@
 
 ## 💻 Hyeoksu's Story
 
-<div align="center">
+<div align="left">
   <a href="https://be-senior-developer.tistory.com/">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Story" />
   </a>
