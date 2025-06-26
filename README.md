@@ -2,12 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Hyeoksu's%20GitHub%20👋&height=250&section=header&fontSize=35&fontAlign=50&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsins051301&count_bg=%23FC7DE4&title_bg=%23555555&icon=&icon_color=%23EAEAEA&title=GITHUB&edge_flat=false)](https://github.com/sins051301)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sins051301&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sins051301)](https://solved.ac/sins051301/)
 ---
 
 ## 💻 Hyeoksu's Story
